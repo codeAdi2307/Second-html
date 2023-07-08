@@ -1,0 +1,38 @@
+body{
+    
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.7;
+    padding: 17em;
+    color: #566b78;
+    max-width: 60em;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+header{
+    text-align: center;
+    word-spacing: 3px;
+}
+.header h1{
+    color: rgb(94, 59, 127);
+    font-weight: 600;
+}
+.breadcrumb{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+p{
+    color: rgb(130, 88, 169);
+}
+.introduction{
+    margin-top: 80px;
+}
+h2{
+    text-decoration: underline ;
+    color: rgb(62, 37, 85);
+}
+ul{
+    color: rgb(55, 37, 71);
+}
